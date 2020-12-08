@@ -1,2 +1,2 @@
 # kineret
-Statical analysis of Kineret lake water level data
+Statistical analysis of Kineret lake water level data
